@@ -20,8 +20,7 @@ Tic-Tac-Toe is a two-player game where the players take turns marking spaces in 
 - Turn-based gameplay
 
 ## How to Play
-
-1.The game starts with an empty 3x3 grid.
-2.Player 1 (X) and Player 2 (O) take turns marking an empty cell in the grid.
-3.The first player to form a horizontal, vertical, or diagonal line with three of their marks wins the game.
-4.If all cells are filled and no player has achieved a winning condition, the game ends in a draw.
+1. The game starts with an empty 3x3 grid.
+2. Player 1 (X) and Player 2 (O) take turns marking an empty cell in the grid.
+3. The first player to form a horizontal, vertical, or diagonal line with three of their marks wins the game.
+4. If all cells are filled and no player has achieved a winning condition, the game ends in a draw.
